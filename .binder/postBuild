@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+jupyter trust */*.ipynb  
+pip3 install rise
+pip3 install pandas 
+pip3 install toolz 
+pip3 install plotly 
+
